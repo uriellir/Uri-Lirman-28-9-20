@@ -35,5 +35,9 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "favicons-webpack-plugin": "^4.2.0",
+    "webpack-pwa-manifest": "^4.2.0"
   }
 }
